@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://wasterclea.github.io/sitemap
+Sitemap: https://wasterclea.github.io/app/sitemap
+Sitemap: https://wasterclea.github.io/assets/sitemap
+Sitemap: https://wasterclea.github.io/css/sitemap
+Sitemap: https://wasterclea.github.io/includes/sitemap
+Sitemap: https://wasterclea.github.io/item/sitemap
+Sitemap: https://wasterclea.github.io/src/sitemap
